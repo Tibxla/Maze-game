@@ -57,10 +57,17 @@ Exemples :
 python main.py medium hard
  ```
 Contrôles
+
 Monter : Z ou Flèche Haut
+
 Descendre : S ou Flèche Bas
+
 Gauche : Q ou Flèche Gauche
+
 Droite : D ou Flèche Droite
+
 Passer : Espace
+
 Réinitialiser : Retour Arrière
+
 Annuler : Maj
