@@ -49,6 +49,7 @@ Options de ligne de commande
 Vous pouvez spécifier la taille et la difficulté du labyrinthe en utilisant des arguments de ligne de commande (par défaut c'est random) :
 
 size : Taille du labyrinthe (small, medium, large, random).
+
 difficulty : Difficulté du labyrinthe (easy, medium, hard, random).
 Exemples :
 
