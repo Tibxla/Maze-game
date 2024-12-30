@@ -72,7 +72,8 @@ Réinitialiser : Retour Arrière
 
 Annuler : Maj
 
-### Exemple d'Exécution du Code
+
+## Exemple d'Exécution du Code
 Voici un exemple d'exécution du code pour lancer le jeu avec un labyrinthe de taille random et de difficulté random :
 
 ```sh
