@@ -79,3 +79,8 @@ Voici un exemple d'exécution du code pour lancer le jeu avec un labyrinthe de t
 python game.py 
  ```
 ### Captures d'Écran
+
+![Menu Principal](screenshots/Menu principal.PNG)
+![Jeu en Cours](screenshots/jeu_en_cours.png)
+![Contrôles](screenshots/controles.png)
+
