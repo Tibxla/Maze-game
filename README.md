@@ -80,7 +80,8 @@ python game.py
  ```
 ### Captures d'Écran
 
-![Menu Principal](screenshots/Menu principal.PNG)
-![Jeu en Cours](screenshots/jeu_en_cours.png)
-![Contrôles](screenshots/controles.png)
+![Menu Principal](screenshots/Menu_principal.PNG)
+![Jeu en Cours](screenshots/Jeu.PNG)
+![Contrôles](screenshots/Menu_des_controles.PNG)
+![Win!!](screenshots/Win.PNG)
 
