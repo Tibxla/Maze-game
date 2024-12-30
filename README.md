@@ -44,15 +44,15 @@ Pour lancer le jeu, exécutez le fichier principal `main.py` :
 ```sh
 python main.py
 Options de ligne de commande
-Vous pouvez spécifier la taille et la difficulté du labyrinthe en utilisant des arguments de ligne de commande :
+Vous pouvez spécifier la taille et la difficulté du labyrinthe en utilisant des arguments de ligne de commande (par défaut c'est random) :
 
-size : Taille du labyrinthe (small, medium, large, random, ou une taille spécifique comme 8x8).
+size : Taille du labyrinthe (small, medium, large, random).
 difficulty : Difficulté du labyrinthe (easy, medium, hard, random).
 Exemples :
 
 
 python main.py medium hard
-python main.py 16x16 easy
+
 Contrôles
 Monter : Z ou Flèche Haut
 Descendre : S ou Flèche Bas
