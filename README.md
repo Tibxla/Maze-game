@@ -26,7 +26,7 @@ Minotaur Maze Game est un jeu de labyrinthe où le joueur doit échapper au Mino
 1. Clonez le dépôt :
 
     ```sh
-    git clone https://github.com/votre-utilisateur/minotaur-maze-game.git
+    git clone https://github.com/Tibxla/Maze-game.git
     ```
 
 2. Installez les dépendances :
@@ -42,10 +42,10 @@ Minotaur Maze Game est un jeu de labyrinthe où le joueur doit échapper au Mino
 Pour lancer le jeu, exécutez le fichier principal `main.py` :
 
 ```sh
-python main.py
+python game.py
  ```
 
-Options de ligne de commande
+### Options de ligne de commande
 Vous pouvez spécifier la taille et la difficulté du labyrinthe en utilisant des arguments de ligne de commande (par défaut c'est random) :
 
 size : Taille du labyrinthe (small, medium, large, random).
@@ -54,9 +54,9 @@ difficulty : Difficulté du labyrinthe (easy, medium, hard, random).
 Exemples :
 
 ```sh
-python main.py medium hard
+python game.py medium hard
  ```
-Contrôles
+### Contrôles
 
 Monter : Z ou Flèche Haut
 
@@ -71,3 +71,11 @@ Passer : Espace
 Réinitialiser : Retour Arrière
 
 Annuler : Maj
+
+### Exemple d'Exécution du Code
+Voici un exemple d'exécution du code pour lancer le jeu avec un labyrinthe de taille random et de difficulté random :
+
+```sh
+python game.py 
+ ```
+### Captures d'Écran
