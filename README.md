@@ -2,7 +2,7 @@
 
 ## Description
 
-Minotaur Maze Game est un jeu de labyrinthe où le joueur doit échapper au Minotaure et atteindre la sortie. Le jeu est développé en Python en utilisant la bibliothèque Pygame pour le rendu graphique et NetworkX pour la gestion du graphe du labyrinthe.
+Minotaur Maze Game est un jeu de labyrinthe généré par IA où le joueur doit échapper au Minotaure et atteindre la sortie. Le jeu est développé en Python en utilisant la bibliothèque Pygame pour le rendu graphique et NetworkX pour la gestion du graphe du labyrinthe.
 
 ## Fonctionnalités
 
